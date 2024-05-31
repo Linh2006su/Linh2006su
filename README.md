@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Linh2006su
+- 👋 Hi, I’m @Linh ❤️ Em 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -7,7 +7,7 @@
 - ⚡ Fun fact: ...
 
 <!---
-Linh2006su/Linh2006su is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Linh ❤️ Em/Linh ❤️ Em is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 https://www.facebook.com/Linh.19112005
